@@ -1,6 +1,8 @@
 Rencana konten wpu
 
 - javascript
+ * ES6
+ * frame work java script
 - php frame works
 - interview 
 - vlog 
